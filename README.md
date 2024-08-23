@@ -11,7 +11,7 @@ In many communities, surplus food often goes to waste due to a lack of convenien
 
 1. **FinCos**: The application for consumers who want to donate food. They can easily log in, input details about the food, and send pickup requests to nearby NGOs.
 
-   - [FinCos GitHub Repository](https://github.com/srijitmondal/FinCept)
+   - [FinCos GitHub Repository](https://github.com/srijitmondal/FinCos)
 
 2. **FinCept**: The application for NGOs that will accept food donations. NGOs can view donation requests, confirm pickups, and manage their operations from this app.
 
