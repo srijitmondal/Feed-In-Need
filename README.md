@@ -1,4 +1,4 @@
-![githu](https://i.postimg.cc/vTtFs8QJ/glow.png)
+![githu](https://i.postimg.cc/WbF241g0/FIN.png)
 <h1 align="center">Feed <img src="https://i.postimg.cc/9fy2WHYY/giphy.webp" width=100 /> in Need</h1>
 
 Feed_In_Need is an Android-based platform aimed at connecting consumers who wish to donate surplus food with NGOs that are ready to accept and distribute it to those in need. The project consists of two interconnected applications, **FinCos** (for consumers) and **FinCept** (for NGOs), which communicate using Firebase to manage food donation pickup requests.
