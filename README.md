@@ -16,7 +16,8 @@ In many communities, surplus food often goes to waste due to a lack of convenien
 2. **FinCept**: The application for NGOs that will accept food donations. NGOs can view donation requests, confirm pickups, and manage their operations from this app.
 
    - [FinCept GitHub Repository](https://github.com/srijitmondal/FinCept)
-
+     
+![githu](https://i.postimg.cc/wj89mMh3/Designer-1.jpg)
 ### Key Features
 
 - **Firebase Integration**: Real-time communication between consumers and NGOs for pickup requests.
